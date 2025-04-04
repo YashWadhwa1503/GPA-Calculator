@@ -16,7 +16,7 @@ This is a C++ console application that calculates your semester GPA based on you
 
 ##  How to Use
 
-### 🛠️ 1. Compile the Program
+### 1. Compile the Program
 Make sure you have a C++ compiler installed. You can compile the code with:
 
 ```bash
