@@ -43,7 +43,6 @@ Credit hours for each class
 
 Once everything is entered, your GPA will be displayed!
 
-'''
 ### 4. Sample Output:
 Enter the number of classes you are taking this semester: 3
 
@@ -62,4 +61,3 @@ Enter your grade for Computer Science: A-
 Enter credit hours for Computer Science: 3
 
 Your GPA for this semester is: 3.73
-'''
