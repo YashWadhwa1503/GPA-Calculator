@@ -47,6 +47,7 @@ Once everything is entered, your GPA will be displayed!
 Enter the number of classes you are taking this semester: 3
 
 Enter your class names. Hit enter after typing each class name.
+
 Class 1: Calculus
 
 Class 2: Physics
