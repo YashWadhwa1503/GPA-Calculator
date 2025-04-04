@@ -48,16 +48,21 @@ Enter the number of classes you are taking this semester: 3
 
 Enter your class names. Hit enter after typing each class name.
 Class 1: Calculus
+
 Class 2: Physics
+
 Class 3: Computer Science
 
 Enter your grade for Calculus: A
+
 Enter credit hours for Calculus: 4
 
 Enter your grade for Physics: B+
+
 Enter credit hours for Physics: 3
 
 Enter your grade for Computer Science: A-
+
 Enter credit hours for Computer Science: 3
 
 Your GPA for this semester is: 3.73
